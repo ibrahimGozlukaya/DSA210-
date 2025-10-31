@@ -58,7 +58,7 @@ We will first explore general trends over time to see whether social media usage
 Then, we will apply a **panel regression analysis** that tracks how changes in these economic indicators are related to changes in social-media participation within each country.  
 
 To address the **sub-questions**, we will test whether consumer confidence strengthens or weakens the relationship between economic stress and social media use (interaction effects).  
-Additionally, optional platform-level data from Statcounter or DataReportal will help us see whether higher usage is driven more by entertainment focused or professional platforms.  
+Additionally, optional platform level data from Statcounter or DataReportal will help us see whether higher usage is driven more by entertainment focused or professional platforms.  
 
 ---
 
