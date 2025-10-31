@@ -14,7 +14,7 @@ By combining economic and digital data, the project aims to understand how peopl
 
 ---
 
-##  2. Research Questions and Sub-Questions
+## 🎯 2. Research Questions and Sub-Questions
 
 **Main Question**
 - Do worsening economic conditions (higher inflation or unemployment) lead to higher social-media participation in Europe?
@@ -26,7 +26,7 @@ By combining economic and digital data, the project aims to understand how peopl
 
 ---
 
-##  3. Hypotheses
+## 💡 3. Hypotheses
 
 - **H1:** Higher inflation or unemployment rates are associated with increased social-media participation.  
 - **H2:** If participation increases, the growth will be stronger on entertainment-based platforms (e.g., TikTok, YouTube) compared to professional ones (LinkedIn).  
@@ -40,7 +40,7 @@ By combining economic and digital data, the project aims to understand how peopl
 |--------------|-----------------|--------------------|
 | **Eurostat – tin00127** | “Individuals using the internet for participating in social networks (% of individuals)” | Measures yearly social-media participation for each European country (2011–2024). |
 | **World Bank (WDI)** | Inflation (`FP.CPI.TOTL.ZG`), Unemployment (`SL.UEM.TOTL.ZS`), Internet usage (`IT.NET.USER.ZS`) | Represents key economic conditions and general internet access rates. |
-| **Statcounter (optional)** | Platform market share (Facebook, Instagram, YouTube, TikTok, LinkedIn, X) | Identifies which platforms gain or lose users when total participation changes. |
+| **Statcounter ** | Platform market share (Facebook, Instagram, YouTube, TikTok, LinkedIn, X) | Identifies which platforms gain or lose users when total participation changes. |
 
 ---
 
@@ -49,7 +49,7 @@ By combining economic and digital data, the project aims to understand how peopl
 - **Eurostat data:** Downloaded from the [Eurostat Data Browser](https://ec.europa.eu/eurostat/databrowser/product/page/tin00127) in `.csv` or `.tsv` format  
   *(filters: `sex=T`, `age=Y16-74`, `unit=PC_IND`)*  
 - **World Bank data:** Retrieved through the [World Bank Open Data API](https://data.worldbank.org/indicator) using the codes `FP.CPI.TOTL.ZG`, `SL.UEM.TOTL.ZS`, and `IT.NET.USER.ZS`.  
-- **Statcounter (optional):** Exported manually from [Statcounter Global Stats](https://gs.statcounter.com/social-media-stats/all/europe) for selected countries and years.  
+- **Statcounter :** Exported manually from [Statcounter Global Stats](https://gs.statcounter.com/social-media-stats/all/europe) for selected countries and years.  
 
 All datasets are **public, aggregated, and non-personal**, ensuring ethical and reproducible use.
 
@@ -68,14 +68,8 @@ All datasets are **public, aggregated, and non-personal**, ensuring ethical and 
 
 3. **Statistical Testing**
    - Apply a **panel fixed-effects regression** model:  
-     \[
-     SocialUse_{it} = \beta_1 Inflation_{i,t-1} + \beta_2 Unemployment_{i,t-1} + \gamma Internet_{it} + \alpha_i + \delta_t + \varepsilon_{it}
-     \]
-     - \( \alpha_i \): country effects, \( \delta_t \): year effects  
-     - Clustered standard errors at the country level.  
-   - Check the significance and direction of coefficients (supports or rejects H1).  
-
-4. **Platform Composition Analysis (optional)**
+    
+4. **Platform Composition Analysis **
    - Use Statcounter platform shares to examine which platforms drive the changes in total participation (tests H2).  
 
 ---
@@ -88,7 +82,7 @@ If confirmed, secondary analysis will reveal **which platform types** absorb tha
 
 ---
 
-## 👤 9. Author
+##  8. Author
 **İbrahim Gözlükaya**  
 Sabancı University – DSA210 (Fall 2025–2026)
 
