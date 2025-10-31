@@ -3,10 +3,9 @@
 ---
 
 ##  1. Motivation
-  Over the past fifteen years, social media has become a essential part of everyday life, shaping how people communicate, follow news, and spend their free time. Yet, social media usage does not grow uniformly: economic and social factors often effect how people engage online. During periods of slower growth, increasing prices, or lower confidence in the economy, individuals may turn to digital spaces more often either to stay informed, to seek community, or simply as a low cost form of entertainment.
+  Over the last fifteen years, social media has become an integral part of daily life, it has shaped how people communicate, view news, and spend their free time. However, social media usage does not grow evenly: economic and social factors often impact the way that people connect online. In the event of slower growth, increasing prices, or lower confidence in the economy, people may turn to digital spaces more frequently either to stay informed, seek community, or as a low cost form of entertainment.
 
-  This project aims to understand how changes in economic conditions and consumer confidence relate to social media usage across European countries. Rather than only focusing on crises, it studies whether economic uncertainty or optimism captured through inflation, unemployment, GDP growth, and confidence levels is reflected in how people use social media.
-In addition, it asks whether certain types of platforms (entertainment vs. professional) gain more attention when overall participation increases.
+This project aims to understand how changes in economic conditions and people's confidence on the economy has relation to social media usage across European countries. Rather than only focusing on crises, it studies whether economic uncertainty or optimism captured through inflation, unemployment, GDP growth, and confidence levels is reflected in how people use social media. In addition, it asks whether certain types of platforms for example entertainment, professional gain more attention when overall usage increases.
 
 ##  2. Research Questions and Sub-Questions  
 **Main Question**  
