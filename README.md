@@ -42,7 +42,7 @@ By including a measure of consumer sentiment (confidence), the project adds a be
 
 ---
 
-## 🌍 5. Data Source and Collection  
+##  5. Data Source and Collection  
 - **Eurostat social-media participation data:** Download from Eurostat Data Browser (table `tin00127`) as CSV/TSV.  
 - **World Bank macro data:** Retrieve via WDI API using codes `FP.CPI.TOTL.ZG`, `SL.UEM.TOTL.ZS`, `NY.GDP.MKTP.KD.ZG`.  
 - **OECD Consumer Confidence Index (CCI):** Use OECD STES/CLI dataset; download monthly CCI and aggregate to yearly averages.  
