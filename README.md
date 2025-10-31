@@ -53,7 +53,7 @@ All data used are **public, aggregated, and non-personal**, making the analysis 
 
 ---
 
-## 🧪 6. Methodology – How We Will Test It  
+##  6. Methodology – How We Will Test It  
 
 To test the research questions, we will combine data from Eurostat, the World Bank, and the OECD to create a panel dataset covering European countries from 2011 to 2024.  
 Social media participation rates will be compared with key economic indicators — inflation, unemployment, GDP growth — and consumer confidence levels.  
