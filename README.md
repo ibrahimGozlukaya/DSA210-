@@ -53,18 +53,18 @@ All data used are **public, aggregated, and non-personal**, making the analysis 
 ##  6. Methodology – How We Will Test It  
 
 To test the research questions, we will combine data from Eurostat, the World Bank, and the OECD to create a panel dataset covering European countries from 2011 to 2024.  
-Social media participation rates will be compared with key economic indicators — inflation, unemployment, GDP growth — and consumer confidence levels.  
+Social media participation rates will be compared with key economic indicators inflation, unemployment, GDP growth and consumer confidence levels.  
 
 We will first explore general trends over time to see whether social media usage tends to increase during periods of economic stress or declining confidence.  
 Then, we will apply a **panel regression analysis** that tracks how changes in these economic indicators are related to changes in social-media participation within each country.  
 
-To address the **sub-questions**, we will test whether consumer confidence strengthens or weakens the relationship between economic stress and social-media use (interaction effects).  
-Additionally, optional platform-level data from Statcounter or DataReportal will help us see whether higher usage is driven more by entertainment-focused or professional platforms.  
+To address the **sub-questions**, we will test whether consumer confidence strengthens or weakens the relationship between economic stress and social media use (interaction effects).  
+Additionally, optional platform-level data from Statcounter or DataReportal will help us see whether higher usage is driven more by entertainment focused or professional platforms.  
 
 ---
 
 ##  7. Expected Results  
-The project expects to find a **positive relationship** between economic stress indicators (inflation, unemployment, low GDP growth) and social-media participation.  
+The project expects to find a **positive relationship** between economic stress indicators (inflation, unemployment, low GDP growth) and social media participation.  
 It further expects that **lower consumer confidence** amplifies this effect (H2), and that when usage rises, **entertainment-oriented platforms** benefit more than professional ones (H3).
 
 ---
