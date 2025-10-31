@@ -5,7 +5,7 @@
 ##  1. Motivation
   Over the last fifteen years, social media has become an integral part of daily life, it has shaped how people communicate, view news, and spend their free time. However, social media usage does not grow evenly: economic and social factors often impact the way that people connect online. In the event of slower growth, increasing prices, or lower confidence in the economy, people may turn to digital spaces more frequently either to stay informed, seek community, or as a low cost form of entertainment.
 
-This project aims to understand how changes in economic conditions and people's confidence on the economy has relation to social media usage across European countries. Rather than only focusing on crises, it studies whether economic uncertainty or optimism captured through inflation, unemployment, GDP growth, and confidence levels is reflected in how people use social media. In addition, it asks whether certain types of platforms for example entertainment, professional gain more attention when overall usage increases.
+This project aims to understand how changes in economic conditions and people's confidence on the economy relate to social media usage across European countries. Rather than only focusing on crises, it studies whether economic uncertainty or optimism captured through inflation, unemployment, GDP growth, and confidence levels is reflected in how people use social media. In addition, it asks whether certain types of platforms for example entertainment, professional gain more attention when overall usage increases.
 
 ##  2. Research Questions and Sub-Questions  
 **Main Question**  
