@@ -14,7 +14,7 @@ By combining economic and digital data, the project aims to understand how peopl
 
 ---
 
-## 🎯 2. Research Questions and Sub-Questions
+##  2. Research Questions and Sub-Questions
 
 **Main Question**
 - Do worsening economic conditions (higher inflation or unemployment) lead to higher social-media participation in Europe?
@@ -26,7 +26,7 @@ By combining economic and digital data, the project aims to understand how peopl
 
 ---
 
-## 💡 3. Hypotheses
+##  3. Hypotheses
 
 - **H1:** Higher inflation or unemployment rates are associated with increased social-media participation.  
 - **H2:** If participation increases, the growth will be stronger on entertainment-based platforms (e.g., TikTok, YouTube) compared to professional ones (LinkedIn).  
