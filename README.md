@@ -3,13 +3,13 @@
 ---
 
 ##  1. Motivation  
-Over the past fifteen years, social media has become an essential part of everyday life, shaping how people communicate, access information, and spend their free time.  
-However, its usage does not grow at a constant pace. Economic and social factors may influence how and why people engage with these platforms.  
-When the economy slows down, prices rise, or consumer confidence falls, individuals might turn to social media more frequently — either to stay informed, connect with others, or as a low-cost source of entertainment and distraction.  
+Over the past fifteen years, social media has become a central part of everyday life — shaping how people communicate, follow news, and spend their free time.  
+However, social media use does not evolve independently from the broader economy. Economic conditions and people’s confidence in the future often influence how they behave online.  
+When inflation rises, growth slows, or optimism declines, individuals may turn to digital platforms more often — to stay informed, to seek connection, or simply as an affordable form of entertainment.  
 
-This project aims to examine **how economic changes and consumer confidence relate to social media usage** across European countries between **2011 and 2024**.  
-Rather than focusing on deep crises, it investigates whether periods of **economic uncertainty or optimism**  measured through inflation, unemployment, GDP growth, and confidence indicators are reflected in shifts in social media participation.  
-Finally, the project also explores whether certain platform types (e.g., entertainment-oriented vs. professional networks) attract more engagement when overall usage increases.  
+This project explores **how changes in economic indicators and consumer confidence relate to social media usage** across European countries between **2011 and 2024**.  
+Rather than focusing on crises, it studies whether **economic uncertainty or optimism** is reflected in online engagement patterns.  
+In addition, it examines whether different types of platforms — such as entertainment-based (TikTok, YouTube) or professional ones (LinkedIn) — gain more attention when overall participation increases. 
 ---
 
 ##  2. Research Questions and Sub-Questions  
