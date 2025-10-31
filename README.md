@@ -3,14 +3,13 @@
 ---
 
 ##  1. Motivation  
-Over the last decade, many European countries have faced severe economic challenges such as high inflation, slow growth, and rising unemployment.  
-In these times, digital behaviour may shift: people might increase their social media use either to stay connected, seek information or simply as a form of distraction.  
-This project aims to explore **how macro-economic changes (inflation, unemployment, GDP growth) and consumer confidence** affect **social media usage** in European countries between **2011 and 2024**.  
-The goal is to find out:  
-- whether social media participation increases when economic conditions worsen,  
-- and if so, which types of platforms (entertainment vs. professional) are used more.  
-By including a measure of consumer sentiment (confidence), the project adds a behavioural layer: it asks whether **lower confidence** corresponds with higher social media use.
+Over the past fifteen years, social media has become an essential part of everyday life, shaping how people communicate, access information, and spend their free time.  
+However, its usage does not grow at a constant pace. Economic and social factors may influence how and why people engage with these platforms.  
+When the economy slows down, prices rise, or consumer confidence falls, individuals might turn to social media more frequently — either to stay informed, connect with others, or as a low-cost source of entertainment and distraction.  
 
+This project aims to examine **how economic changes and consumer confidence relate to social media usage** across European countries between **2011 and 2024**.  
+Rather than focusing on deep crises, it investigates whether periods of **economic uncertainty or optimism**  measured through inflation, unemployment, GDP growth, and confidence indicators are reflected in shifts in social media participation.  
+Finally, the project also explores whether certain platform types (e.g., entertainment-oriented vs. professional networks) attract more engagement when overall usage increases.  
 ---
 
 ##  2. Research Questions and Sub-Questions  
