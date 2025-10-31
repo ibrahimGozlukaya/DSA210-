@@ -3,15 +3,14 @@
 ---
 
 ##  1. Motivation
-  Over the past fifteen years, social media has become an essential part of daily life  shaping how people communicate, follow news, and spend their free time. Yet, social media use does not grow uniformly: economic and social factors often influence how people engage online.
-During periods of slower growth, rising prices, or lower confidence in the economy, individuals may turn to digital spaces more often either to stay informed, to seek community, or simply as a low cost form of entertainment.
+  Over the past fifteen years, social media has become an one of important part of our daily life, shaping how people communicate, follow news, and spend their free time. Yet, social media usage does not grow uniformly: economic and social factors often effect how people engage online. During periods of slower growth, increasing prices, or lower confidence in the economy, individuals may turn to digital spaces more often either to stay informed, to seek community, or simply as a low cost form of entertainment.
 
-  This project aims to understand how changes in economic conditions and consumer confidence relate to social media usage across European countries. Rather than focusing on crises, it studies whether economic uncertainty or optimism captured through inflation, unemployment, GDP growth, and confidence levels is reflected in how people use social media.
+  This project aims to understand how changes in economic conditions and consumer confidence relate to social media usage across European countries. Rather than only focusing on crises, it studies whether economic uncertainty or optimism captured through inflation, unemployment, GDP growth, and confidence levels is reflected in how people use social media.
 In addition, it asks whether certain types of platforms (entertainment vs. professional) gain more attention when overall participation increases.
 
 ##  2. Research Questions and Sub-Questions  
 **Main Question**  
-- Do worsening economic conditions (higher inflation or unemployment, lower GDP growth) lead to higher social-media participation in European countries?  
+- Do worsening economic conditions (higher inflation or unemployment, lower GDP growth) lead to higher social media participation in European countries?  
 
 **Sub-Questions**  
 1. If participation rises, which platform categories (entertainment vs. professional/informational) account for that growth?  
@@ -51,15 +50,16 @@ All data used are **public, aggregated, and non-personal**, making the analysis 
 
 ##  6. Methodology – How We Will Test It  
 
-To test the research questions, we will combine data from Eurostat, the World Bank, and the OECD to create a panel dataset covering European countries from 2011 to 2024.  
-Social media participation rates will be compared with key economic indicators inflation, unemployment, GDP growth and consumer confidence levels.  
+To test the research questions, we will combine data from Eurostat, the World Bank, and the OECD to create a panel dataset covering European countries from 2011 to 2024. Social media participation rates will be compared with key economic indicators inflation, unemployment, GDP growth and consumer confidence levels.  
 
-We will first explore general trends over time to see whether social media usage tends to increase during periods of economic stress or declining confidence.  
-Then, we will apply a **panel regression analysis** that tracks how changes in these economic indicators are related to changes in social-media participation within each country.  
+First we will explore the general trends over time to see whether social media usage tends to increase during periods of economic stress or declining confidence. Then, we will apply a **panel regression analysis** that tracks how changes in these economic indicators are related to changes in social media participation within each country.  
 
 To address the **sub-questions**, we will test whether consumer confidence strengthens or weakens the relationship between economic stress and social media use (interaction effects).  
 Additionally, optional platform level data from Statcounter or DataReportal will help us see whether higher usage is driven more by entertainment focused or professional platforms.  
 
+Beyond the main model, two complementary approaches may be used for robustness:  
+- **Regional Fixed Effects Models:** Countries will also be grouped by region (e.g., Northern, Southern, and Eastern Europe) to test whether regional similarities in digital adoption or culture influence the results.  
+- **Difference-in-Differences (DiD):** Specific economic shock periods (such as 2020–2022) will be analysed to see whether social media engagement increased more strongly in countries that experienced larger economic disruptions compared to more stable ones.  
 ---
 
 ##  7. Expected Results  
