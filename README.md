@@ -77,10 +77,10 @@ Beyond the main model, two complementary approaches may be used for robustness:
 - **Regional Fixed Effects Models:** Countries will also be grouped by region (e.g., Northern, Southern, and Eastern Europe) to test whether regional similarities in digital adoption or culture influence the results.  
 - **Difference-in-Differences (DiD):** Specific economic shock periods (such as 2020–2022) will be analysed to see whether social media engagement increased more strongly in countries that experienced larger economic disruptions compared to more stable ones.  
 ---
+##  7.Expected Results
 
-##  7. Expected Results  
-The project expects to find a **positive relationship** between economic stress indicators (inflation, unemployment, and social media participation.  
-It further expects that **lower consumer confidence** amplifies this effect (H2), and that when usage rises, **entertainment-oriented platforms** benefit more than professional ones (H3).
+The project expects to find a positive relationship between economic stress indicators (inflation and unemployment) and overall social-media participation. It further expects that lower consumer confidence strengthens this association (H2), and that the type of stress matters: rising unemployment is expected to be associated with greater increases in professional-platform usage, whereas rising prices (inflation) are expected to be associated with greater increases in entertainment-oriented platforms (H3).
+
 ---
 
 *End of README.md*
