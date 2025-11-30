@@ -20,7 +20,7 @@ This project aims to understand how changes in economic conditions and people's 
 ##  3. Hypotheses  
 - **H1:** Higher inflation, higher unemployment  are associated with increased social-media participation.  
 - **H2:** When consumer confidence is low, the association between economic stress and social-media usage is stronger.  
-- **H3:** Under economic stress, different conditions lead to different shifts in platform usage: rising unemployment is expected to increase participation more on professional platforms such as LinkedIn, while rising prices (inflation) are expected to increase participation more on entertainment-oriented platforms such as Facebook and YouTube.
+- **H3:** During periods of economic stress, countries show shifts in platform preference: rising unemployment is associated with increases in the relative share of professional platforms (e.g., LinkedIn), whereas rising prices (inflation) are associated with increases in the relative share of entertainment platforms (e.g., Facebook, YouTube).
 
 - **H0 (Null):** Economic indicators and consumer confidence have no significant relationship with social-media participation.
 
