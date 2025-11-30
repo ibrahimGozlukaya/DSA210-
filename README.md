@@ -79,9 +79,8 @@ Beyond the main model, two complementary approaches may be used for robustness:
 ---
 
 ##  7. Expected Results  
-The project expects to find a **positive relationship** between economic stress indicators (inflation, unemployment, low GDP growth) and social media participation.  
+The project expects to find a **positive relationship** between economic stress indicators (inflation, unemployment, and social media participation.  
 It further expects that **lower consumer confidence** amplifies this effect (H2), and that when usage rises, **entertainment-oriented platforms** benefit more than professional ones (H3).
-
 ---
 
 *End of README.md*
