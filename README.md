@@ -26,15 +26,16 @@ This project aims to understand how changes in economic conditions and people's 
 
 ---
 
-##  4. Data Description  
-| Dataset | Variable(s) | Why used |
-|----------|--------------|----------|
-| **Eurostat – tin00127** | “Individuals using the internet for participating in social networks (% of individuals)” | Main dependent variable: social-media participation rate for each European country (2011–2024). |
-| **World Bank (WDI)** | Inflation (`FP.CPI.TOTL.ZG`), Unemployment (`SL.UEM.TOTL.ZS`), GDP growth (`NY.GDP.MKTP.KD.ZG`) | Key macro-economic stress variables. |
-| **OECD – Consumer Confidence Index (CCI; STES/CLI)** | Monthly CCI; aggregated to yearly averages | Behavioural measure capturing how optimistic/pessimistic consumers are. |
-| **Statcounter** | Platform market shares (Facebook, Instagram, TikTok, YouTube, LinkedIn) | Used to answer which platform categories gain usage during stressed periods. |
-| **DataReportal** | Country-level social media penetration & time-spent indicators | Alternative view on adoption and intensity of use; helpful for robustness checks. |
+## 4. Data Description
 
+| Dataset | Variable(s) | Why used |
+|--------|-------------|----------|
+| **Eurostat – tin00127** | “Individuals using the internet for participating in social networks (% of individuals)” | Main dependent variable: social-media participation rate for each European country (2011–2024). |
+| **Eurostat – HICP Inflation**  <br> `prc_hicp_midx__custom_19133241_linear.csv` | Harmonised Index of Consumer Prices (HICP). Monthly inflation index aggregated to annual inflation change. | Key macro-economic stress indicator capturing changes in price levels. |
+| **Eurostat – Unemployment (Monthly)** <br> `une_rt_m_linear_2_0.csv` | Monthly unemployment rates for EU countries; aggregated to yearly averages. | Labor-market stress indicator reflecting changes in unemployment conditions. |
+| **OECD – Consumer Confidence Index (CCI; STES/CLI)** | Monthly CCI; aggregated to yearly averages. | Behavioural measure capturing how optimistic or pessimistic consumers are. |
+| **Statcounter** | Platform market shares (Facebook, Instagram, TikTok, YouTube, LinkedIn). | Used to analyse which platform categories gain usage during periods of economic stress. |
+| **DataReportal** | Country-level social media penetration & time-spent indicators. | Provides an alternative measure of adoption and intensity of use; helpful for robustness checks. |
 ---
 
 ##  5. Data Source and Collection  
