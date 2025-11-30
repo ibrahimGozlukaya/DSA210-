@@ -34,7 +34,7 @@ This project aims to understand how changes in economic conditions and people's 
 | **Eurostat – HICP Inflation**  <br> `prc_hicp_midx__custom_19133241_linear.csv` | Harmonised Index of Consumer Prices (HICP). Monthly inflation index aggregated to annual inflation change. | Key macro-economic stress indicator capturing changes in price levels. |
 | **Eurostat – Unemployment (Monthly)** <br> `une_rt_m_linear_2_0.csv` | Monthly unemployment rates for EU countries; aggregated to yearly averages. | Labor-market stress indicator reflecting changes in unemployment conditions. |
 | **OECD – Consumer Confidence Index (CCI; STES/CLI)** | Monthly CCI; aggregated to yearly averages. | Behavioural measure capturing how optimistic or pessimistic consumers are. |
-| **Statcounter** | Platform market shares (Facebook, Instagram, TikTok, YouTube, LinkedIn). | Used to analyse which platform categories gain usage during periods of economic stress. |
+| **Statcounter** | Platform market shares (Facebook, Instagram,  YouTube, LinkedIn). | Used to analyse which platform categories gain usage during periods of economic stress. |
 | **DataReportal** | Country-level social media penetration & time-spent indicators. | Provides an alternative measure of adoption and intensity of use; helpful for robustness checks. |
 ---
 
