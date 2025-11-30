@@ -37,13 +37,28 @@ This project aims to understand how changes in economic conditions and people's 
 | **Statcounter** | Platform market shares (Facebook, Instagram,  YouTube, LinkedIn). | Used to analyse which platform categories gain usage during periods of economic stress. |
 | **DataReportal** | Country-level social media penetration & time-spent indicators. | Provides an alternative measure of adoption and intensity of use; helpful for robustness checks. |
 ---
+## 5. Data Source and Collection
 
-##  5. Data Source and Collection  
-- **Eurostat social-media participation data:** Download from Eurostat Data Browser (table `tin00127`) as CSV/TSV.  
-- **World Bank macro data:** Retrieve via WDI API using codes `FP.CPI.TOTL.ZG`, `SL.UEM.TOTL.ZS`, `NY.GDP.MKTP.KD.ZG`.  
-- **OECD Consumer Confidence Index (CCI):** Use OECD STES/CLI dataset; download monthly CCI and aggregate to yearly averages.  
-- **Statcounter platform share data (optional):** Export for selected countries from Statcounter Global Stats – Social Media Market Share.  
-- **DataReportal (optional):** Use annual country reports/datasets for social media penetration and time-spent metrics to complement Eurostat/Statcounter.  
+- **Eurostat social-media participation data:**  
+  Downloaded from Eurostat Data Browser (table `tin00127`) as CSV/TSV.
+
+- **Eurostat inflation data (HICP):**  
+  Used the file `prc_hicp_midx__custom_19133241_linear.csv`, which contains monthly Harmonised Index of Consumer Prices (HICP).  
+  Monthly values were converted into annual inflation changes.
+
+- **Eurostat unemployment data:**  
+  Used the file `une_rt_m_linear_2_0.csv`, which provides monthly unemployment rates for EU countries.  
+  Monthly series were aggregated into yearly averages.
+
+- **OECD Consumer Confidence Index (CCI):**  
+  Downloaded monthly CCI series from OECD STES/CLI dataset and aggregated into yearly averages.
+
+- **Statcounter platform share data:**  
+  Exported platform-level market shares (Facebook, Instagram, TikTok, YouTube, LinkedIn) from Statcounter Global Stats – Social Media Market Share.
+
+- **DataReportal (optional):**  
+  Used annual country-level reports/datasets for social-media penetration and time-spent indicators to complement Eurostat/Statcounter.
+
 
 All data used are **public, aggregated, and non-personal**, making the analysis reproducible and ethically sound.
 
