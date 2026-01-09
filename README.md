@@ -15,7 +15,7 @@ This project aims to understand how changes in economic conditions and people's 
 - Do worsening economic conditions (higher inflation or unemployment) lead to higher social media participation in European countries?
 
 **Sub-Questions**
-1. Does unemployment correlate more with increases in professional-platform usage (e.g., LinkedIn), while rising prices (inflation) correlate more with growth in entertainment-oriented platforms (e.g., Instagram, TikTok, YouTube)?
+1. Does unemployment correlate more with increases in professional-platform usage (e.g., LinkedIn), while rising prices (inflation) correlate more with growth in entertainment-oriented platforms (e.g., Instagram, YouTube)?
 2. Does consumer confidence moderate the relationship between economic stress and social-media usage (i.e., when confidence is low, is the effect stronger)?
 
 ---
