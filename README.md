@@ -72,7 +72,7 @@ Stress = z(inflation) + z(unemployment) − z(consumer confidence)
 ---
 
 ### 6.2 Exploratory Data Analysis
-Exploratory analysis visualizes time trends, cross-country differences, and the relationship between economic stress and social media participation. All figures are saved in the `figures/` directory.
+Exploratory analysis visualizes time trends, cross-country differences, and the relationship between economic stress and social media participation. 
 
 ---
 
